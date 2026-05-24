@@ -13,7 +13,7 @@
 ## 📥 **Como Baixar e Usar**
 
 1. Acesse a seção de **Releases** no repositório do projeto.
-2. Baixe o arquivo APK mais recente ([`app-release-StepWise.apk`](https://github.com/John-SW-Elliott/Extensao_Universitaria_Stepwise_Saude_Bem_Estar/releases/download/StepWise_V2/StepWise_v2.apk)) .
+2. Baixe o arquivo APK mais recente ([`StepWise V2 2026`](https://github.com/John-SW-Elliott/Extensao_Universitaria_Stepwise_Saude_Bem_Estar/releases/download/StepWise_V2/StepWise_v2.apk)) .
 3. Instale o aplicativo no seu dispositivo Android.
 4. Explore as funcionalidades e alcance seus objetivos de saúde!
 
