@@ -79,8 +79,10 @@ Este é um projeto acadêmico em constante evolução. Caso tenha interesse em c
 # **Step Wise** - Tecnologia em Saúde e Bem-Estar
 
 # Imagens do Projeto
+Aqui estão as capturas de tela do projeto (Flutter/DART):
 
-Aqui estão as capturas de tela do projeto:
+
+Aqui estão as capturas de tela do projeto (Java/Kotlin):
 
 <table>
   <tr>
